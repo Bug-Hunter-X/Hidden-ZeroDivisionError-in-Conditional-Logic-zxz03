@@ -1,0 +1,1 @@
+This repository demonstrates a Python code snippet that contains a subtle ZeroDivisionError. The error is hidden within a conditional statement.  The bug.py file contains the erroneous code. The bugSolution.py file shows how to fix the issue by adding a check to prevent division by zero.
